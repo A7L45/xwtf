@@ -1,1 +1,1 @@
-alert('Tosun_cookies: '+document.cookie);
+alert(12341234123);
