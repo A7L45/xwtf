@@ -89,5 +89,3 @@ char do_system_init(UDF_INIT *initid, UDF_ARGS *args, char *message)
 {
 	return(0);
 }
-
-// milw0rm.com [2006-02-20]
